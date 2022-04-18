@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sang
 - 👀 I’m interested in research, self-study technology, travel
-- 🌱 I’m currently working on ReactJS - NodeJs
+- 🌱 I’m currently working on ReactJS/VueJS - NodeJs
 - 💞️ I’m looking to collaborate on everyone who have the same passion
 - 📫 Reach me via skype: live:ce12110a0dfd519/ email: tpgiangsang1906@gmail.com
 
